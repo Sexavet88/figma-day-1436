@@ -1,0 +1,162 @@
+body {
+  background: white;
+  margin: 0;
+}
+
+.section-one {
+  background: white;
+}
+
+.ul {
+  list-style-type: none;
+}
+
+.line {
+  color: #14203e;
+  text-decoration: none;
+  font-family: "IBM Plex Sans";
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 5px;
+}
+
+.nav-margin {
+  margin-left: 115px;
+}
+
+.login-button {
+  width: 80px;
+  height: 33px;
+  border-radius: 5px;
+  border: none;
+  color: #14203e;
+  background: #f6f0e8;
+  font-family: "IBM Plex Sans";
+  font-size: 12px;
+}
+
+.trial-button {
+  width: 120px;
+  height: 33px;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  background: #14203e;
+  font-family: "IBM Plex Sans";
+  font-size: 12px;
+  margin-left: 5px;
+}
+
+.flex {
+  display: flex;
+}
+
+.box {
+  margin: 15px;
+}
+
+h3 {
+  font-family: "IBM Plex Sans";
+  font-size: 18px;
+  font-weight: 700;
+  color: lightgrey;
+  margin-left: 25px;
+}
+
+.div-button {
+  margin-right: 25px;
+}
+
+h1 {
+  font-family: "IBM Plex Sans";
+  font-size: 45px;
+  font-weight: 700;
+  color: #14203e;
+  margin: 0;
+}
+
+.h1-padding-bottom {
+  padding-bottom: 20px;
+}
+
+.section-two {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #fffcf8;
+  padding-top: 80px;
+  padding-bottom: 100px;
+  border-top: 2px solid #f4e8d8;
+  border-bottom: 2px solid #f4e8d8;
+}
+
+p {
+  font-family: "IBM Plex Sans";
+  font-size: 15px;
+  font-weight: 700;
+  color: #14203e;
+  margin: 0;
+}
+
+.start-button-1 {
+  width: 130px;
+  height: 50px;
+  border-radius: 10px;
+  color: white;
+  background: #14203e;
+  font-family: "IBM Plex Sans";
+  font-size: 12px;
+}
+
+.p-padding-bottom {
+  padding-bottom: 25px;
+}
+
+h4 {
+  font-family: "IBM Plex Sans";
+  font-size: 12px;
+  font-weight: 700;
+  color: #14203e;
+  padding: 10px;
+}
+
+.section-three {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.img1-4 {
+  width: 100%;
+}
+
+.blue-link {
+  text-decoration: none;
+  color: #14203e;
+  font-family: "IBM Plex Sans";
+  font-size: 15px;
+  font-weight: 700;
+}
+
+h5 {
+  font-family: "IBM Plex Sans";
+  font-size: 8px;
+  font-weight: 700;
+}
+
+.section-four {
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  padding: 5px;
+  margin: 5px;
+  width: 20%;
+}
